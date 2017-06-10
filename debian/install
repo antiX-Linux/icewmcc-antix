@@ -1,2 +1,4 @@
-IceWMcc.desktop 	usr/share/applications/antix
-icewmcc/* 		usr/local/bin/icewmcc
+IceWMcc.desktop     /usr/share/applications/antix
+icewmcc/*	    /usr/local/bin/icewmcc
+changelog.gz        /usr/share/doc/icewmcc-antix
+copyright           /usr/share/doc/icewmcc-antix

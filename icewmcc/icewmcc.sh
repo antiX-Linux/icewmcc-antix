@@ -78,7 +78,7 @@ export IceWMCC=$(cat <<End_of_Text
 		</hbox>
 		<hbox>
 		  <button>
-		  <input file>"$ICONS/preferences-desktop-remote-desktop.png"</input>
+		  <input file>"$ICONS/mail.png"</input>
 		  <action>/usr/local/bin/icewmcc/icewmccmail.sh &</action>
 		  </button>
 		  <text use-markup="true" width-chars="25">
@@ -141,7 +141,7 @@ export IceWMCC=$(cat <<End_of_Text
 		</hbox> 
                 <hbox>
 		  <button>
-		  <input file>"$ICONS/file-roller.png"</input>
+		  <input file>"$ICONS/computer.png"</input>
 		  <action>/usr/local/bin/icewmcc/icewmccopmove.sh &</action>
 		  </button>
 		  <text use-markup="true" width-chars="25">

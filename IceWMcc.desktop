@@ -1,6 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=IceWMcc
+Comment=Simple control centre for IceWM
 Exec=/usr/local/bin/icewmcc/icewmcc.sh
 Icon=preferences-desktop
 Terminal=false
